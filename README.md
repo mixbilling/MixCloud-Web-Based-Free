@@ -14,6 +14,54 @@ Tugas menjadi lebih ringan, anda tinggal cek pendapatan di warung dan buat vouch
 MIXCLOUD hanya menjalankan tugas untuk pendaftaran dan menambahkan voucher oleh user.
 Untuk login hotspotnya sendiri masih menggunakan Mikrotik.
 
+=============
+Fitur UMUM :
+=============
+- Tampilan GUI yang menarik
+- Terintegrasi dengan MikroTik
+- Mendukung mode HOTSPOT MikroTik 
+- Mendukung mode PPPOE MikroTik (PREMIUM)
+- Akses dan Manajemen yang terpisah untuk masing-masing router
+- Mendukung Backup Restore Database Billing (PREMIUM)
+- Mendukung backup dan restore database MikroTik (PREMIUM)
+- Mendukung monitoring user online dam user expire
+- Memiliki opsi untuk kepemilikan profile, member atau voucher
+- Design Invoice yang simple dan menarik
+- Mendukung untuk print atau cetak invoice/data tagihan
+- Permisahan manajemen untuk masing-masing akun reseller/sales, admin tetap full akses
+- Masing-masing akun reseller/sales tidak bisa melihat data dari akun lain
+- Laporan Keuangan yang berbeda untuk masing akun reseller/Sales, admin tetap full akses
+- Tersedia beberapa pilihan izin lanjutan untuk akun reseller/sales seperti membuat profile sendiri,izin akses API HOTSPOT (view atau manage) dan API PPPOE (view atau manage) 
+- Pengalokasian satu router untuk satu akun reseller/sales
+- Terintegrasi dengan MikroTik (resource, interface and graph, hotspot list, hotspot online, hotspot expire, ppp list and ppp online, dhcp lease, ip binding, walled garden, ip host, script, scheduler, netwatch… add, edit, remove, make static dhcp lease, make binding) (PREMIUM)
+- Terintegrasi dengan User Manager MikroTik (customer,router,user,profile,profile limitation,limitation,log,session,backup restore usermanager database, print voucher) (PREMIUM)
+
+=================
+Fitur HOTSPOT :
+=================
+- Design Voucher yang simple dan menarik
+- Voucher sudah support QRCode
+- Voucher Generator mendukung untuk semua jenis Login Page (Username + Password atau Voucher Code)
+- Voucher Generator mendukung beberapa pilihan kombinasi kode atau username
+- Menu Print/Cetak Voucher dengan beberapa pilihan (cetak semua, cetak yang dipilih, cetak berdasarkan prefix)
+- Profile Generator sudah disertakan script on-login untuk manajemen masa aktif dan expire member HOTSPOT atau voucher HOTSPOT di MikroTik
+- Otomatis penambahan schedule ke scheduler mikrotik setiap voucher pertama kali digunakan untuk manajemen masa aktif
+- Mendukung mode Time Based, Quota Based, Time Based + Quota Based dan Unlimited
+- Penambahan paket (Recharge) tidak menghilangkan waktu yang tersisa dan Otomatis memperbaharui masa aktif
+- Form Input member yang lebih lengkap
+- Dan lain-lain
+
+========================
+Fitur PPPOE (PREMIUM):
+========================
+- Mendukung pilihan IP Address statis dan dinamis (PREMIUM)
+- Mendukung beberapa pilihan aksi ketika expire (Disable Secret, Change To Expire Profile dan No Action) (PREMIUM)
+- Pembatasan Waktu Recharge Ulang Untuk Member PPPOE, minimal 5 hari sebelum expire dan waktu yang tersisa akan ditambahkan ke masa aktif baru (PREMIUM)
+- Mendukung pembuatan user PPPOE berbasis Voucher (Username + Password atau Voucher Code) (PREMIUM)
+- Otomatis penambahan schedule ke scheduler mikrotik setiap pembuatan akun member untuk manajemen masa aktif (PREMIUM)
+- Form Input member yang lebih lengkap (PREMIUM)
+- Dan lain-lain
+
 # DEMO VERSION
 http://myfi.hijaunet.id/admin
 - username: demo
