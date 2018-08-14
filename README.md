@@ -14,7 +14,6 @@ Tugas menjadi lebih ringan, anda tinggal cek pendapatan di warung dan buat vouch
 MIXCLOUD hanya menjalankan tugas untuk pendaftaran dan menambahkan voucher oleh user.
 Untuk login hotspotnya sendiri masih menggunakan Mikrotik.
 
-=============
 Fitur UMUM :
 =============
 - Tampilan GUI yang menarik
@@ -36,7 +35,6 @@ Fitur UMUM :
 - Terintegrasi dengan MikroTik (resource, interface and graph, hotspot list, hotspot online, hotspot expire, ppp list and ppp online, dhcp lease, ip binding, walled garden, ip host, script, scheduler, netwatch… add, edit, remove, make static dhcp lease, make binding) (PREMIUM)
 - Terintegrasi dengan User Manager MikroTik (customer,router,user,profile,profile limitation,limitation,log,session,backup restore usermanager database, print voucher) (PREMIUM)
 
-=================
 Fitur HOTSPOT :
 =================
 - Design Voucher yang simple dan menarik
@@ -51,7 +49,6 @@ Fitur HOTSPOT :
 - Form Input member yang lebih lengkap
 - Dan lain-lain
 
-========================
 Fitur PPPOE (PREMIUM):
 ========================
 - Mendukung pilihan IP Address statis dan dinamis (PREMIUM)
