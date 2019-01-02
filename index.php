@@ -1,1 +1,63 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=94317bd18a2cad17178631b4db3f8cba93519b7fnVbXDuTGsf0VYbEPEihc5oT1PnDIITnDHIbJMgTmnDMv/O+mpZXhZ4MoVlfsfLq+/k4SMccK37/McDFhTUw1FHr2aNj3VBQtM5wS8TRM9BxB3ZdvX39/ltQehN/DaQrPn2HsV+j+EPRX9FcE+uXb1yE8mz5Mvn9ZnCxqxveL35A8XXNGZRecYJKH8SmY9aNRrGteLG2sfGxt5AH3wdBewTh2AQHjZ26UV+tmWebj8gJzIOxnovwBmgchk8+Hk7DgZy/zU/3QTtM+Iyl5jm7RjSHQCujcy2jybqKoHXhaS8qnOVp81a8pIs/hxFq8xtoZGgLnhuB1ZB79FpcHQCTgWvR6VfjS9OiN88ksgHJSMe6CjCsOLeDBe6lBG0pJ6dH3vQzsgil7pAiT+w5ruxfilm0p+eaN87IlXPxYDQiN+FeQjQufOwv/8qc3eUVPOVhPYB/07VMjm1Piy3VCDRZiVJBdGtoYK9eh6+CZJ/oWkD2bMZKu/dlMHU1OhhgziGCiIEs5ptM+0EuxqeBMkl3ZrnzSLFO1+Vd9FhSkxImitGCrvS0ERQlxonECefZ1DbiE/vCJlWYPqJBKJgMHTudOpLIPl5U1AHnHpxKFr6xLCVREbB0egS1s28WSzqAdj+25aPqTJEVkEXVVe5GLvxWF/FlD6wHOZ5e7sQoF5BoMwe6OENPNO9GnW9W5gjsFn3sZVfw5t3jqIq/QHUxSjYNTpURbPZJuz5AFQPZnrhbzEJ3x8vIJspOwhOUhEqXpeANp1Q+JDAQ/7hu/VHVTJqMztH1NxGfjw7QpFGpQ+xcDBktoXSF8npqlDMs0oY9yVKfn3Q+BrwP/cSXeHuimzB1Fyi89PIqRAhFx3pBZ/ZyRuYiy6XHAXHeI5aWlEVwBnn54OKXo2pubIdwiRn4oMGRtzWgl5wVJ6BYrUUrszEA7YVhmbAcR/Gu2HOQ1sSj0GQPireFlATfvODQnEmEH9u50Vh3NWV9QaOzkng418ZThquqd8QmtWuGUjQuD0mt7+l69oPzb1Aj3KKPyaV1+GCT3Qh8TY1OJ/7IaeuuyTYsqhqEvv4qHF7bzmGYkexmalsmciRrmb0Wqdjl1fHF4ysoj9d/eqCTDaEwJlCYh0AsqNNdOuF8AHccdAqjIyG9sLDFkJMpqhMDv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
+<?php
+/**
+* FULL FEATURED CREATED / ADDED BY : 
+* WEBSITE	: HTTPS://HIJAUNET.ID
+* EMAIL		: OWNER.HIJAUN3T@GMAIL.COM
+* FACEBOOK	: HTTPS://WWW.FACEBOOK.COM/HIJAUNETPCT
+* MOBILE	: +62 877 0229 9005
+**/
+
+//ini_set('display_errors', 1);
+//ini_set('display_startup_errors', 1);
+//error_reporting(E_ALL);
+
+$date_now = strtotime(date("Y-m-d"));
+$expiration = strtotime("2019-12-30");
+
+if ($date_now >= $expiration){	?>
+	<!DOCTYPE html>
+	<html>
+	<head>
+	  	<meta charset="utf-8">
+	  	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	  	<title>Mix.Cloud - NOTICE</title>
+	 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+		<link rel="shortcut icon" href="ui/theme/default/images/favicon.png" type="image/x-icon" />	 	
+	  	<link rel="stylesheet" href="ui/theme/default/assets/bootstrap/css/bootstrap.min.css">
+	  	<link rel="stylesheet" href="ui/theme/default/assets/font-awesome/css/font-awesome.min.css">
+	  	<link rel="stylesheet" href="ui/theme/default/assets/ionicons/css/ionicons.min.css">
+	  	<link rel="stylesheet" href="ui/theme/default/assets/dist/css/AdminLTE.min.css">
+
+	  	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	  	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	  	<!--[if lt IE 9]>
+	  	<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+	  	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	  	<![endif]-->
+	</head>
+	<body style="height:auto" class="hold-transition login-page body-full">
+		<div class="login-box">
+	  		<div class="login-logo">
+	    		<a href="#"><b>Mix.Cloud - </b>Notice</a>
+	  		</div>
+	  		<div class="login-box-body">
+				<h2 style="text-align:center;margin-top:-1px;">LOCKED</h2>
+				<h2 style="text-align:center;margin-top:-1px;">Service Limit Expired</h2>	
+				<h5 style="text-align:center;margin-top:18px;">Please Contact Your Service Provider</h5>
+				<h5 style="text-align:center;margin-top:18px;">E-mail: owner.hijaun3t@gmail.com<br> Fb: https://www.facebook.com/hijaunetpct<br> Mobile/Whatsapp: +62 877-0229-9005</h5>
+				<center><a style="min-width:100%;max-width:100%;margin-top:15px;" class="btn btn-success waves-effect" href="admin">RE-LOGIN</a></center>
+			</div>
+		</div>
+
+		<footer class="main-footer" style="position:fixed;bottom:0;width: 100%;margin-left:0;text-align: center;">
+			<strong>Copyright 2018 &copy; <a href="https://hijaunet.id/">Mix.Cloud</a></strong>
+		</footer>
+		<script src="ui/theme/default/assets/jquery/jquery.min.js"></script>
+		<script src="ui/theme/default/assets/bootstrap/js/bootstrap.min.js"></script>
+	</body>
+</html>
+
+<?php } else {	
+	require ('system/boot.php');
+	App::_run();
+}
